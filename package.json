@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "bin": {
+    "say-hello": "index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ics-ikeda/say-hello.git"

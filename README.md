@@ -1,3 +1,3 @@
 ```
-npx @ics-ikeda/say-hello
+npx ics-ikeda/say-hello
 ```
