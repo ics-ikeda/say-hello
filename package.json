@@ -1,0 +1,17 @@
+{
+  "name": "say-hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ics-ikeda/say-hello.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ics-ikeda/say-hello/issues"
+  },
+  "homepage": "https://github.com/ics-ikeda/say-hello#readme"
+}
